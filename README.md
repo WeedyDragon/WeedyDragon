@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WeedyDragon
 - 👀 I’m interested in ...xR
-- 🌱 I’m currently learning ...Unity & C#
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...Unity, C# and blender
+- 💞️ I’m cuently learning how to build 3D assests for use in altspace
 - 📫 How to reach me ...
 
 <!---
